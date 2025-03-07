@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h2 align="left">Linguagens e Ferramentas:</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Contato</h3>
+<h2 align="left">Contato</h2>
 
 ###
 
