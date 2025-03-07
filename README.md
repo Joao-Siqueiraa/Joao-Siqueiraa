@@ -1,14 +1,18 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Siqueiraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1&custom_title=Siqueira's%20Github%20Stats" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Siqueiraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="131" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Siqueiraa&radius=16&theme=modern-lilac&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
+<h1 align="center">Olá, me chamo João Pedro Siqueira</h1>
+
+###
+
+<h3 align="center">Desenvolvedor Back-end Especializado em Python</h3>
+
+###
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -22,14 +26,28 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-pedro-siqueira-506091205/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+<h3 align="left">Sobre mim</h3>
+
+###
+
+<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento back-end utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho interesse e conhecimento em Arquitetura de Software.  Estou comprometido em aprimorar constantemente meu conhecimento e habilidades para contribuir de forma significativa no mundo da tecnologia.<br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Siqueiraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1&custom_title=Siqueira's%20Github%20Stats" height="130" alt="stats graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Joao-Siqueiraa/Joao-Siqueiraa/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Contato</h3>
+
+###
+
+<div align="left">
+  <a href="kedin.com/in/joao-pedro-siqueira-506091205/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
