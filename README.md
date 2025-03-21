@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
 ###
@@ -30,7 +32,7 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento back-end utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho interesse e conhecimento em Arquitetura de Software.  Estou comprometido em aprimorar constantemente meu conhecimento e habilidades para contribuir de forma significativa no mundo da tecnologia.<br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
+<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento software utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho conhecimento em java e go<br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
 
 ###
 
