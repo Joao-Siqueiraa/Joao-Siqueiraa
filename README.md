@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento software utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho conhecimento em java e go<br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
+<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento software utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho conhecimento em java e go<br><br>👨‍💻 formado em Análise e Desenvolvimento de Sistemas / estudante de engenharia de software<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
 
 ###
 
