@@ -1,55 +1,64 @@
-<h1 align="center">Olá, me chamo João Pedro Siqueira</h1>
+# Olá, eu sou o João Pedro! 👋
 
-###
+### Desenvolvedor de Software | Engenharia de Software
 
-<h3 align="center">Desenvolvedor Back-end Especializado em Python</h3>
+Sou um desenvolvedor focado em criar soluções eficientes e modernas para web e mobile. Atualmente, estou cursando Engenharia de Software e aprimorando constantemente minhas habilidades em arquitetura de código e novas tecnologias, além de atuar na área de suporte técnico a sistemas críticos.
 
-###
+- 🎓 Graduando em **Engenharia de Software** (Anhanguera, 2026-2029)
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera, 2023-2025)
+- 💼 Atualmente trabalhando como **Suporte de TI na Telelaudo Tecnologia Médica**
+- 🌎 Idiomas: Português (Nativo) e Inglês (Avançado em curso)
 
-<h2 align="left">Linguagens e Ferramentas:</h2>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<br clear="both">
+Aqui estão as tecnologias com as quais trabalho e desenvolvo meus projetos:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <br>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+### 📂 Projetos em Destaque
 
-###
+* ⚽ **[PFC Fut7](https://pfc-oficial.vercel.app)** - Site oficial de futebol desenvolvido com Next.js, TypeScript, Tailwind CSS e Supabase.
+* 🚀 **[ARISE.APP](https://github.com/Joao-Siqueiraa/ariseapp)** - Aplicativo mobile de gamificação e produtividade desenvolvido com Flutter, Dart e CI/CD via GitHub Actions.
 
-<p align="left">Atualmente, sou estudante na área de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento software utilizando Python. Possuo habilidades sólidas em Python, Tkinter, Django, MYSQL. Além disso, tenho conhecimento em java e go<br><br>👨‍💻 formado em Análise e Desenvolvimento de Sistemas / estudante de engenharia de software<br>💡 Apaixonado por desafios<br>🖥️ Entusiasta de tecnologias</p>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Siqueiraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1&custom_title=Siqueira's%20Github%20Stats" height="130" alt="stats graph"  />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Siqueiraa&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Siqueiraa&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+</p>
 
-###
+---
 
-<h2 align="left">Contato</h2>
-
-###
-
-<div align="left">
-  <a href="kedin.com/in/joao-pedro-siqueira-506091205/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+### 🤝 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/joaopedro-siqueira/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-###
+  <a href="mailto:joao.siqueira0602@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
